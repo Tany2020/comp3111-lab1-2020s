@@ -1,4 +1,5 @@
-tany 12345678
+Name: tany 
+ID: 12345678
 
 
-Image image=Image.createImage("git_history.png");
+<img src="git_history.png">;
